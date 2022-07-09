@@ -1,0 +1,19 @@
+.FooterPage .container img  {
+     
+
+    width: 40%;
+  
+    
+}
+
+.FooterPage .container {
+    
+    background-image: url(./footerBg.png);
+    
+    
+}
+
+.FooterPage ul.a {
+    list-style-type: circle;
+  }
+

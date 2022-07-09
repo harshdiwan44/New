@@ -1,0 +1,191 @@
+.text{
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+position: relative;  
+
+}
+
+.pqqwp {
+  color: rgba(255, 255, 255, 0.85);
+
+}
+
+.texttwo{
+    font-family: Poppins;
+font-size: 28px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.rowsss{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+}
+
+.juiop{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+color: white
+
+}
+
+.iio{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.iio2{
+    position: relative;
+    top: 0;
+    left: 40%;
+}
+.iio3{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.imageones {
+  position: relative;
+  top: 0;
+  left: 0;
+  
+}
+.imagetwos {
+  position: absolute;
+  top: 8%;
+  left: 35%;
+  width:10%;
+  border: 1px green solid;
+}
+
+.imagetwoss {
+    position: absolute;
+    top: 24%;
+    left: 31%;
+    width:10%;
+    border: 1px green solid;
+  }
+
+  .jj{
+    position: relative;
+    top: 0;
+    left: 90%;
+  }
+
+  .imageoneone {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .imagetwotwo{
+    position: absolute;
+    top: 18%;
+    left: 0%;
+    width:7%;
+    border: 1px green solid;
+
+  }
+
+  .imagetwotwos{
+    position: absolute;
+    top: 18%;
+    left: 12%;
+    width:6%;
+    border: 1px green solid;
+
+  }
+
+  .imagetwotwoss{
+    position: absolute;
+    top: 18%;
+    left: 58%;
+    width:6%;
+    border: 1px green solid;
+  }
+
+
+  .imagetwotwosss{
+    position: absolute;
+    top: 11%;
+    left: 81%;
+    width:6%;
+    border: 1px green solid;
+  }
+
+  .corneroneflag{
+    position: absolute;
+    top: 49%;
+    left: 102%;
+    width:7%;
+    border: 1px green solid;
+  }
+
+  .corneroneflags{
+    position: absolute;
+    top: 70%;
+    left: 114%;
+    width:7%;
+    border: 1px green solid;
+  }
+
+  .rotate{
+
+    
+  
+  left: 18%;
+  top: 44%;
+  position: absolute;
+  transform: rotate(90deg);
+  
+  
+  }.klkl{
+    margin-left: 48%;
+    margin-top: 19%;
+  
+    
+   
+  }
+
+
+  .triangles{
+    margin-left: 98%;
+    margin-top: -16%;
+    width: 16%;
+  }
+
+
+  .borderwhite{
+    width: 200px;
+height: 0px;
+
+border: 3px solid #FFFFFF;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+margin-left:20%;
+margin-top:20%;
+flex: none;
+order: 1;
+flex-grow: 0;
+  }
+
+  

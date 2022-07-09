@@ -1,0 +1,66 @@
+.ghj h1{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+.real{
+    height: 380px;
+width: 301px;
+left: 0px;
+top: 47px;
+border-radius: 15px;
+background: linear-gradient(180deg, #5399DE 0%, rgba(255, 255, 255, 0) 100%);
+
+
+}
+
+.real h1{
+    position: absolute;
+    left: -5%;
+    right: 11.92%;
+    top: 25.02%;
+    bottom: 53.63%;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25.86px;
+    line-height: 39px;
+    text-align: center;
+    
+    color: #0F4D8B;
+ 
+}
+
+
+.real img{
+    
+position: absolute;
+left: 24.81%;
+right: 29.14%;
+top: 50.12%;
+bottom: 20.14%;
+border-radius: 10px;
+}
+
+.real h4{
+    position: absolute;
+
+    right: 29.14%;
+    top: 87%;
+
+}
+
+.face{
+    position: absolute;
+left: 25.49%;
+right: 32.75%;
+top: -1%;
+bottom: 73.52%;
+}
